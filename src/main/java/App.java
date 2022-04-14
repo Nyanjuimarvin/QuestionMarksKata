@@ -15,8 +15,6 @@ import java.util.regex.Pattern;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        boolean q = qs_SumUpToTen("arrb6???4xxbl5???eee5");
-        System.out.println(q);
     }
 
     public static boolean qs_SumUpToTen(String checkWord){
