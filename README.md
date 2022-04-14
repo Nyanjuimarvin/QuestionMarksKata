@@ -10,7 +10,7 @@ git clone https://github.com/Nyanjuimarvin/QuestionMarksKata.git
 ## Usage
 In the main method check whether a string contains 3 question marks between each pair of numbers that add up to 10. If the condition is satisfied,expect true, else false.
 
-##Sample
+## Sample
 
 True
 ```
